@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+aa-amp.json
+server.crt
+server.key
+*.log
